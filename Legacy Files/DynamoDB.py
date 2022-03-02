@@ -1,8 +1,23 @@
-from os import remove
 from pprint import pprint
 import boto3
 import json
 from botocore.exceptions import ClientError
+from boto3.dynamodb.types import TypeDeserializer
+
+serializer = TypeDeserializer()
+
+def deserialize(data):
+    if isinstance(data, list):
+        return [deserialize(v) for v in data]
+
+    if isinstance(data, dict):
+        try:
+            return serializer.deserialize(data)
+        except TypeError:
+            return {k: deserialize(v) for k, v in data.items()}
+    else:
+        return data
+
 
 data_j = open("local.json")
 data_o = json.load(data_j)
@@ -110,7 +125,9 @@ def print_table(_tableName):
     for i in items:
         print(i)
 
+
 if __name__ == '__main__':
 
+    add_item("demo","Rice Cooker", "Appliances" , "google.com")
     print_table("demo")
     
