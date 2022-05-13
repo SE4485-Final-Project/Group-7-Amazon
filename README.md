@@ -34,7 +34,7 @@ Olagoke Adereti - Osa180000@utdallas.edu
 ### Deployment Guide  
 
 #Wrap-up video link -   
-https://cometmail-my.sharepoint.com/:v:/r/personal/oxr170001_utdallas_edu/Documents/Recordings/Amazon%20UTD%20Project%20Wrap-up-20220513_100820-Meeting%20Recording.mp4?csf=1&web=1&e=07ynTF
+https://cometmail-my.sharepoint.com/:v:/g/personal/oxr170001_utdallas_edu/Ee9UzcANYntMpRnUV2qSJBgBl0gqs3J0HC0zKw6KgntQ1A?e=iIqrVJ
 
 Open AWS Account  
 Upload all files  
