@@ -31,10 +31,11 @@ Mustafa Khan - mnk170030@utdallas.edu
 Austin Hucabee - austin.hucabee@utdallas.edu  
 Olagoke Adereti - Osa180000@utdallas.edu  
 
-### Deployment Guide
-Open AWS Account
-Upload all files
-Make sure permissions are set that each lambda can call and recieve actions, as well as comprehend, APIs, and Dynamos.
-Get S3 ready.
-Train and deploy models and endpoint.
+### Deployment Guide  
+Open AWS Account  
+Upload all files  
+Make sure permissions are set that each lambda can call and recieve actions, as well as comprehend, APIs, and Dynamos.  
+Get S3 ready.  
+Train and deploy models and endpoint.  
+Use front-end to interact with the system.
 
