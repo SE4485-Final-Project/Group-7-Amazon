@@ -32,6 +32,10 @@ Austin Hucabee - austin.hucabee@utdallas.edu
 Olagoke Adereti - Osa180000@utdallas.edu  
 
 ### Deployment Guide  
+
+#Wrap-up video link -   
+https://github.com/SE4485-Final-Project/Group-7-Amazon
+
 Open AWS Account  
 Upload all files  
 Make sure permissions are set that each lambda can call and recieve actions, as well as comprehend, APIs, and Dynamos.  
