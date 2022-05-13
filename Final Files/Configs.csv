@@ -1,0 +1,7 @@
+"Name","Value"
+"NoDBEntry","We have received your request. We are on it! A customer representative will contact you soon"
+"NegativeSentimentResponse","We have received your request. We are on it! A customer representative will contact you soon"
+"TextAnalyzeAddress","arn:aws:lambda:us-east-1:301251195635:function:analyze-text"
+"Threshold","0.4"
+"BelowThresholdResponse","We have received your request. We are on it! A customer representative will contact you soon"
+"DynamoDBHandlerAddress","arn:aws:lambda:us-east-1:301251195635:function:DynamoDBHandler"
