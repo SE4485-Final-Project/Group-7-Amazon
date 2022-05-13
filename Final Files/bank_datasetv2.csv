@@ -1,0 +1,349 @@
+Savings,Check my savings account balance
+Checking,I want to check my checking account balance
+Credit,I need to replace my credit card
+Credit,My credit card was stolen
+Credit,I need a new credit card
+Loan,I want to apply for a loan
+Checking,What is my checking account number
+Checking,I need to find my routing number
+Checking,I need help setting up a direct deposit
+Checking,Checking account balance
+Savings,Savings account balance 
+Checking,I can't withdraw money from the ATM
+Account,I want to change my PIN
+Checking,I need to check my balance in my checking account please
+Credit,I want to check my credit card statement
+Credit,I want to dispute a transaction
+Credit,I need to cancel my credit card
+Checking,I need a new debit card
+Account,I want to look at my account summary
+Savings,I need to deposit money into my savings account
+Account,I forgot my PIN
+Account,I forgot my username
+Account,I forgot my password
+Credit,I want to look at my credit card statement
+Credit,What is my outstanding balance on my credit card
+Checking,Remaining balance in checking account
+Savings,I want to transfer money into my savings account
+Savings,I want to withdraw from my savings
+Savings,What is the interest rate on my savings account
+Savings,Savings account interest
+Credit,Credit card stolen
+Checking,Debit card stolen
+Credit,I am a victim of identity theft
+Credit,Cancel credit card
+Credit,Check credit card rewards
+Credit,What is my credit score
+Loan,Am I eligible to apply for a loan
+Loan,Am I eligible to apply for a mortgage
+Escalate,I would like to speak to an agent
+Credit,What is my credit limit 
+Credit,Can my credit limit be increased 
+Credit,Do I have any outstanding balances
+Credit,When is the minimum payment due for my credit card
+Credit,What is the overdraft fee on this card
+Checking,Open a new checking account
+Savings,Open a new savings account
+Account,My identity was stolen
+Escalate,I want to speak to customer service
+Escalate,I want a representative
+Account,Account summary
+Checking,I need my checking account number
+Checking,I need the routing number to my checking account
+Loan,I want information on business loans
+Loan,How do I take out a loan
+Credit,How do I get a new credit card
+Checking,How do I get a new debit card
+Savings,How do I find my savings account number
+Checking,Need my checking account number
+Checking,Need checkings account balance
+Savings,I want to check my savings balance
+Credit,Credit card replacement
+Credit,Stolen credit card
+Checking,New debit card
+Loan,I need to take out a loan
+Savings,I need help finding my savings account number
+Checking,Where can I find the routing number 
+Checking,I want to set up a direct deposit
+Checking,What is the remaining balance on my checking account
+Savings,How much money is left in my savings
+Checking,My debit card keeps getting declined
+Checking,I want to change my debit card PIN
+Checking,How much money is in my checking account
+Credit,Credit card statement
+Credit,I want to void a charge on my card
+Credit,I want a new credit card
+Checking,My debit card is expired
+Account,I want to look at my account summary
+Savings,I want to put money into my savings
+Account,I forgot my PIN number
+Account,I forgot the username to my account
+Account,I forgot the password I made
+Credit,Go through my credit card statement
+Credit,What is the outstanding balance on my card
+Checking,How much is left in my checking account
+Savings,Transfer money to savings
+Savings,Withdraw money from savings
+Savings,Savings account details
+Savings,Interest rate on my savings account
+Credit,I lost my credit card
+Checking,I lost my debit card
+Account,I think my identity was stolen
+Credit,I need to cancel a credit card
+Credit,How much do I have in rewards from my card
+Credit,I want to check my credit score
+Loan,How can I apply for a loan
+Loan,How can I apply for a mortgage
+Escalate,I want to speak to an agent
+Credit,I want to know the credit limit on my card
+Credit,How can I increase my credit limit
+Credit,Outstanding balances remaining
+Credit,When is the next minimum payment due
+Credit,How expensive is the overdraft fee
+Checking,I want to open a new checking account
+Savings,I want to open a new savings account
+Account,My wallet and cards were stolen
+Escalate,I need to talk to a representative
+Escalate,I want a human to help me
+Escalate,Customer service
+Checking,I need to find my checking account number
+Checking,Where is the routing number
+Loan,Business loan information
+Loan,How do I qualify for a loan
+Credit,I need to freeze my credit card
+Checking,I need to cancel my debit card
+Account,Where can I find the checking account number
+Savings,Check my savings account balance
+Checking,I want to check my checking account balance
+Credit,I need to replace my credit card
+Credit,My credit card was stolen
+Credit,I need a new credit card
+Loan,I want to apply for a loan
+Checking,What is my checking account number
+Checking,I need to find my routing number
+Checking,I need help setting up a direct deposit
+Checking,Checking account balance
+Savings,Savings account balance 
+Checking,I can't withdraw money from the ATM
+Account,I want to change my PIN
+Checking,I need to check my balance in my checking account please
+Credit,I want to check my credit card statement
+Credit,I want to dispute a transaction
+Credit,I need to cancel my credit card
+Checking,I need a new debit card
+Account,I want to look at my account summary
+Savings,I need to deposit money into my savings account
+Account,I forgot my PIN
+Account,I forgot my username
+Account,I forgot my password
+Credit,I want to look at my credit card statement
+Credit,What is my outstanding balance on my credit card
+Checking,Remaining balance in checking account
+Savings,I want to transfer money into my savings account
+Savings,I want to withdraw from my savings
+Savings,What is the interest rate on my savings account
+Savings,Savings account interest
+Credit,Credit card stolen
+Checking,Debit card stolen
+Credit,I am a victim of identity theft
+Credit,Cancel credit card
+Credit,Check credit card rewards
+Credit,What is my credit score
+Loan,Am I eligible to apply for a loan
+Loan,Am I eligible to apply for a mortgage
+Escalate,I would like to speak to an agent
+Credit,What is my credit limit 
+Credit,Can my credit limit be increased 
+Credit,Do I have any outstanding balances
+Credit,When is the minimum payment due for my credit card
+Credit,What is the overdraft fee on this card
+Checking,Open a new checking account
+Savings,Open a new savings account
+Account,My identity was stolen
+Escalate,I want to speak to customer service
+Escalate,I want a representative
+Account,Account summary
+Checking,I need my checking account number
+Checking,I need the routing number to my checking account
+Loan,I want information on business loans
+Loan,How do I take out a loan
+Credit,How do I get a new credit card
+Checking,How do I get a new debit card
+Savings,How do I find my savings account number
+Checking,Need my checking account number
+Checking,Need checkings account balance
+Savings,I want to check my savings balance
+Credit,Credit card replacement
+Credit,Stolen credit card
+Checking,New debit card
+Loan,I need to take out a loan
+Savings,I need help finding my savings account number
+Checking,Where can I find the routing number 
+Checking,I want to set up a direct deposit
+Checking,What is the remaining balance on my checking account
+Savings,How much money is left in my savings
+Checking,My debit card keeps getting declined
+Checking,I want to change my debit card PIN
+Checking,How much money is in my checking account
+Credit,Credit card statement
+Credit,I want to void a charge on my card
+Credit,I want a new credit card
+Checking,My debit card is expired
+Account,I want to look at my account summary
+Savings,I want to put money into my savings
+Account,I forgot my PIN number
+Account,I forgot the username to my account
+Account,I forgot the password I made
+Credit,Go through my credit card statement
+Credit,What is the outstanding balance on my card
+Checking,How much is left in my checking account
+Savings,Transfer money to savings
+Savings,Withdraw money from savings
+Savings,Savings account details
+Savings,Interest rate on my savings account
+Credit,I lost my credit card
+Checking,I lost my debit card
+Account,I think my identity was stolen
+Credit,I need to cancel a credit card
+Credit,How much do I have in rewards from my card
+Credit,I want to check my credit score
+Loan,How can I apply for a loan
+Loan,How can I apply for a mortgage
+Escalate,I want to speak to an agent
+Credit,I want to know the credit limit on my card
+Credit,How can I increase my credit limit
+Credit,Outstanding balances remaining
+Credit,When is the next minimum payment due
+Credit,How expensive is the overdraft fee
+Checking,I want to open a new checking account
+Savings,I want to open a new savings account
+Account,My wallet and cards were stolen
+Escalate,I need to talk to a representative
+Escalate,I want a human to help me
+Escalate,Customer service
+Checking,I need to find my checking account number
+Checking,Where is the routing number
+Loan,Business loan information
+Loan,How do I qualify for a loan
+Credit,I need to freeze my credit card
+Checking,I need to cancel my debit card
+Account,Where can I find the checking account number
+Savings,Check my savings account balance
+Checking,I want to check my checking account balance
+Credit,I need to replace my credit card
+Credit,My credit card was stolen
+Credit,I need a new credit card
+Loan,I want to apply for a loan
+Checking,What is my checking account number
+Checking,I need to find my routing number
+Checking,I need help setting up a direct deposit
+Checking,Checking account balance
+Savings,Savings account balance 
+Checking,I can't withdraw money from the ATM
+Account,I want to change my PIN
+Checking,I need to check my balance in my checking account please
+Credit,I want to check my credit card statement
+Credit,I want to dispute a transaction
+Credit,I need to cancel my credit card
+Checking,I need a new debit card
+Account,I want to look at my account summary
+Savings,I need to deposit money into my savings account
+Account,I forgot my PIN
+Account,I forgot my username
+Account,I forgot my password
+Credit,I want to look at my credit card statement
+Credit,What is my outstanding balance on my credit card
+Checking,Remaining balance in checking account
+Savings,I want to transfer money into my savings account
+Savings,I want to withdraw from my savings
+Savings,What is the interest rate on my savings account
+Savings,Savings account interest
+Credit,Credit card stolen
+Checking,Debit card stolen
+Credit,I am a victim of identity theft
+Credit,Cancel credit card
+Credit,Check credit card rewards
+Credit,What is my credit score
+Loan,Am I eligible to apply for a loan
+Loan,Am I eligible to apply for a mortgage
+Escalate,I would like to speak to an agent
+Credit,What is my credit limit 
+Credit,Can my credit limit be increased 
+Credit,Do I have any outstanding balances
+Credit,When is the minimum payment due for my credit card
+Credit,What is the overdraft fee on this card
+Checking,Open a new checking account
+Savings,Open a new savings account
+Account,My identity was stolen
+Escalate,I want to speak to customer service
+Escalate,I want a representative
+Account,Account summary
+Checking,I need my checking account number
+Checking,I need the routing number to my checking account
+Loan,I want information on business loans
+Loan,How do I take out a loan
+Credit,How do I get a new credit card
+Checking,How do I get a new debit card
+Savings,How do I find my savings account number
+Checking,Need my checking account number
+Checking,Need checkings account balance
+Savings,I want to check my savings balance
+Credit,Credit card replacement
+Credit,Stolen credit card
+Checking,New debit card
+Loan,I need to take out a loan
+Savings,I need help finding my savings account number
+Checking,Where can I find the routing number 
+Checking,I want to set up a direct deposit
+Checking,What is the remaining balance on my checking account
+Savings,How much money is left in my savings
+Checking,My debit card keeps getting declined
+Checking,I want to change my debit card PIN
+Checking,How much money is in my checking account
+Credit,Credit card statement
+Credit,I want to void a charge on my card
+Credit,I want a new credit card
+Checking,My debit card is expired
+Account,I want to look at my account summary
+Savings,I want to put money into my savings
+Account,I forgot my PIN number
+Account,I forgot the username to my account
+Account,I forgot the password I made
+Credit,Go through my credit card statement
+Credit,What is the outstanding balance on my card
+Checking,How much is left in my checking account
+Savings,Transfer money to savings
+Savings,Withdraw money from savings
+Savings,Savings account details
+Savings,Interest rate on my savings account
+Credit,I lost my credit card
+Checking,I lost my debit card
+Account,I think my identity was stolen
+Credit,I need to cancel a credit card
+Credit,How much do I have in rewards from my card
+Credit,I want to check my credit score
+Loan,How can I apply for a loan
+Loan,How can I apply for a mortgage
+Escalate,I want to speak to an agent
+Credit,I want to know the credit limit on my card
+Credit,How can I increase my credit limit
+Credit,Outstanding balances remaining
+Credit,When is the next minimum payment due
+Credit,How expensive is the overdraft fee
+Checking,I want to open a new checking account
+Savings,I want to open a new savings account
+Account,My wallet and cards were stolen
+Escalate,I need to talk to a representative
+Escalate,I want a human to help me
+Escalate,Customer service
+Checking,I need to find my checking account number
+Checking,Where is the routing number
+Loan,Business loan information
+Loan,How do I qualify for a loan
+Credit,I need to freeze my credit card
+Checking,I need to cancel my debit card
+Account,Where can I find the checking account number
+Credit,I need credit
+Credit,I want credit
+Loan,I want a loan
+Loan,I need a loan
