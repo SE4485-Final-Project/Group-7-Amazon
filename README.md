@@ -36,8 +36,12 @@ Olagoke Adereti - Osa180000@utdallas.edu
 #Wrap-up video link -   
 https://drive.google.com/file/d/1aLTuEKmSOIsm3TY0RH6EIcomsX8XxFMG/view?usp=sharing
 
-Open AWS Account  
-Upload all files  
+Open AWS Account and create IAM accounts for the team members.  
+Download all files.  
+Create Lambdas as needed required.  
+Create the S3 Buckets, and Comprehend.  
+Create the requried APIs gateways endoponts.  
+Familiarized yourself with the scripts using the Videos and self learning.  
 Make sure permissions are set that each lambda can call and recieve actions, as well as comprehend, APIs, and Dynamos.  
 Get S3 ready.  
 Train and deploy models and endpoint.  
